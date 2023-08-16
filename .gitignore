@@ -1,0 +1,6 @@
+/figures
+/tb_logs/
+model.pt
+saved_dictionary.pkl
+.idea
+.vscode
